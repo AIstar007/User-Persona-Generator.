@@ -18,12 +18,15 @@ A Python tool that scrapes Reddit user content (posts & comments) and generates 
 
 ```
 reddit-persona-generator/
-├── main.py                # Entry point
-├── reddit_scraper.py      # Scrapes Reddit data
-├── persona_builder.py     # Generates persona using Ollama
-├── output/                # Output files for each user
-├── README.md              # This file
-└── requirements.txt       # Required Python libraries
+│
+├── main.py                  # Main script
+├── reddit_scraper.py        # For scraping user posts/comments
+├── persona_builder.py       # For persona generation via LLM
+├── output/
+│   ├── kojied.txt
+│   └── Hungry-Move-6603.txt
+├── requirements.txt         # All dependencies
+└── README.md                # Setup + Usage Instructions
 ```
 
 ---
