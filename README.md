@@ -103,7 +103,7 @@ USER PERSONA: kojied
 
 ## 🧑‍💻 Author
 
-Built by Alen Thomas for BeyondChats internship (48-hour assignment).
+Built by Alen Thomas
 
 ---
 
